@@ -8,4 +8,5 @@ printf("Hello World");   //to output the string on a display
 
 return 0;                 //terminating function
 
+//this code say hello world
 }
